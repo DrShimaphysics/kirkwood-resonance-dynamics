@@ -33,3 +33,10 @@ The visualization is built using programmatic mathematical animation:
 To render the Manim animation locally:
 ```bash
 manim -pqh kirkwood_chaos_scene.py KirkwoodResonanceChaos
+
+## 🎬 **Animation Preview**
+
+Click the image below to watch the 3:1 Kirkwood Resonance animation on YouTube:
+
+[Kirkwood Resonance Animation Preview](https://www.youtube.com/watch?v=JCXHA05UfR4)
+
